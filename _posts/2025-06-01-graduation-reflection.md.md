@@ -13,9 +13,16 @@ tags:
 
 I just graduated from UT Austin with a B.S. in Computational Biology, a certificate in Programming and Computation, and a minor in Data Science. As I step into this next chapter, I’ve been reflecting on what I’ve learned—not just from textbooks or lectures, but from the process of building, analyzing, and adapting.
 
+###  📖 Some History
+I came into UT Austin as a Neuroscience major despite having done four years of computer science in high school. I was on a bit of...a poorly timed rebellious act, not wanting to follow in footsteps of SWE dad. For some reason my "rebellious" act included wanting to go into healthcare. After some work in some clinics, and finally taking a CS class out of my own volition...I was faced with the fact that I actually love to code!
+
+But I HATED designing webpages, I didn't want to make video games...so what else is there to do? That's when I took my first ever statistics class my sophomore spring, and I FELL IN LOVE with data and moreso how coding paired with it. I was the student that was staying after class, going to office hours for fun, and soon enough it led me down to pursue a minor in data science. Each class I took after made me love data and it's possibilities even further. I became an educated tutor on campus of many of the statistics subject and an "R warrior". 
+
+For much of my undergrad I regretted not coming in as a CS major, but in reflection, I realize that all things happen for a reason and all paths led me to be able to focus on data science courses freely throughout my last two years of undergrad (even if that meant changing to be a computational biology major--because that's a confusing mourthful in itself). 
+
 ### 📊 Projects That Shaped Me
 
-Over the past few years, I’ve worked on projects that bridged my interests in policy, equity, and data. Some of the most impactful included:
+On the same note, I think it's worth reflecting on some projects I was able to do throughout my coursework at UT!
 
 ---
 ### 🪴 Plant Care Assistant Web App (Fall 2023)
