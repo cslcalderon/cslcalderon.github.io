@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A place for me to put things I'm learning, passion projects, and just fun little data
   science things!
 github_username: cslcalderon
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Sofia Calderon"
-  avatar : "/assets/images/bio-photo.jpeg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "I'm a recent UT Austin graduate with a passion for data science and 
   data engineering!"
   links:
