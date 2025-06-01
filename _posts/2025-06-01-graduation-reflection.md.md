@@ -18,7 +18,7 @@ I came into UT Austin as a Neuroscience major despite having done four years of 
 
 But I HATED designing webpages, I didn't want to make video games...so what else is there to do? That's when I took my first ever statistics class my sophomore spring, and I FELL IN LOVE with data and moreso how coding paired with it. I was the student that was staying after class, going to office hours for fun, and soon enough it led me down to pursue a minor in data science. Each class I took after made me love data and it's possibilities even further. I became an educated tutor on campus of many of the statistics subject and an "R warrior". 
 
-For much of my undergrad I regretted not coming in as a CS major, but in reflection, I realize that all things happen for a reason and all paths led me to be able to focus on data science courses freely throughout my last two years of undergrad (even if that meant changing to be a computational biology major--because that's a confusing mourthful in itself). 
+For much of my undergrad I regretted not coming in as a CS major, but in reflection, I realize that all things happen for a reason and all paths led me to be able to focus on data science courses freely throughout my last two years of undergrad (even if that meant changing to be a computational biology major--because if I'm being honest it was the closest thing to data science before UT had a data science major haha). 
 
 ### 📊 Projects That Shaped Me
 
