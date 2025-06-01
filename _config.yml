@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Sofia Calderon"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "I'm a recent UT Austin graduate with a passion for data science and 
   data engineering!"
   links:
