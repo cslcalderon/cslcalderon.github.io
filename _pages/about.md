@@ -1,4 +1,4 @@
-**---
+---
 permalink: /about/
 title: "About"
 ---
@@ -54,4 +54,3 @@ To me, data is more than just numbers — it’s a lens. It’s a way to underst
   <img src="/assets/images/gallery/pic6.jpg" alt="" style="width: 30%; border-radius: 10px;">
 
 </div>
-******
