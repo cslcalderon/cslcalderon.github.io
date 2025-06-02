@@ -3,6 +3,54 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi there! I’m Sofia Calderon — born in Texas, raised all over it.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I’m from **Dallas**, but I’ve lived in **El Paso**, **Odessa**,**Mexico** and now with four incredible years spent studying in **Austin**. 
+
+---
+
+### 🎓 Education
+
+I graduated from **The University of Texas at Austin**, Class of 2025, with a **Bachelor of Science in Computational Biology**, a **Data Science minor**, and a **certificate in Computer Science**.
+
+What is *Computational Biology*? It's a degree that lives at the intersection of **natural sciences, statistics, and computer science**. It means I’ve spent years asking: *What can data teach us about the world around us—from ecosystems and equity to code and computation?*
+
+Through a few clever loopholes (and a lot of passion), I made sure to load up on courses in **machine learning**, **databases**, **software engineering**, and **statistical modeling**. I was determined to build a foundation that’s both technical and thoughtful.
+
+---
+
+### 📈 What I Do
+
+I love working with data that means something. Whether it’s building **machine learning models**, crafting **cloud-based pipelines**, or designing **interactive dashboards**, I’m most excited when data becomes **actionable** — when it’s used to tell stories, drive decisions, or make systems more just.
+
+Some of my core strengths:
+- Applied statistics & regression modeling  
+- End-to-end project pipelines (from messy raw data to clean insight)  
+- Data visualization and communication  
+- Equity-focused research and reporting
+
+---
+
+### 💡 Why It Matters
+
+To me, data is more than just numbers — it’s a lens. It’s a way to understand problems deeply, to bridge perspectives, and to spark meaningful action. Whether I’m coding up a model or cleaning an enourmous and extremely messy dataset, I approach every project with care and curiosity.
+
+---
+
+### 🎉 Fun Facts About Me
+
+- I have two **French Bulldogs** and they’re the love of my life 🐾  
+- I used to be a **neuroscience major** (so I know a thing or two about the brain) 🧠  
+- My first job was waitressing at my family’s restaurant 🍽️
+- I finish tv series at an alarmingly and concerning fast pace 📺
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+  <img src="/assets/images/gallery/dog1.jpg" alt="My dog 1" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/me1.jpg" alt="Me smiling" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/dog2.jpg" alt="My dog 2" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/me2.jpg" alt="Me hiking" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/grad.jpg" alt="Graduation!" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/plant.jpg" alt="Plants I care for" style="width: 30%; border-radius: 10px;">
+
+</div>
