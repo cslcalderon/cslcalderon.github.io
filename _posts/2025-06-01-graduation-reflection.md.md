@@ -5,9 +5,8 @@ categories:
   - reflections
   - projects
 tags:
-  - reflections
   - data science
-  - projects
+  - learning
 ---
 
 I just graduated from UT Austin with a B.S. in Computational Biology, a certificate in Programming and Computation, and a minor in Data Science. As I step into this next chapter, I’ve been reflecting on what I’ve learned—not just from textbooks or lectures, but from the process of building, analyzing, and adapting.
