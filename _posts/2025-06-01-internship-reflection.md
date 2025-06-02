@@ -87,4 +87,4 @@ More than anything, I learned how to build with care, collaborate with purpose, 
 ---
 
 Thanks for reading 💛
-- Sofia
+ -Sofia
