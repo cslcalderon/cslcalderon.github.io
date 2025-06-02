@@ -1,4 +1,4 @@
----
+**---
 permalink: /about/
 title: "About"
 ---
@@ -11,17 +11,17 @@ I’m from **Dallas**, but I’ve lived in **El Paso**, **Odessa**,**Mexico** an
 
 ### 🎓 Education
 
-I graduated from **The University of Texas at Austin**, Class of 2025, with a **Bachelor of Science in Computational Biology**, a **Data Science minor**, and a **certificate in Computer Science**.
+I graduated from The University of Texas at Austin, Class of 2025, with a Bachelor of Science in Computational Biology, a Data Science minor, and a certificate in Computer Science.
 
-What is *Computational Biology*? It's a degree that lives at the intersection of **natural sciences, statistics, and computer science**. It means I’ve spent years asking: *What can data teach us about the world around us—from ecosystems and equity to code and computation?*
+What is *Computational Biology*? It's a degree that lives at the intersection of natural sciences, statistics, and computer science. It means I’ve spent years asking: *What can data teach us about the world around us—from ecosystems and equity to code and computation?*
 
-Through a few clever loopholes (and a lot of passion), I made sure to load up on courses in **machine learning**, **databases**, **software engineering**, and **statistical modeling**. I was determined to build a foundation that’s both technical and thoughtful.
+Through a few clever loopholes (and a lot of passion), I made sure to load up on courses in machine learning, databases, software engineering, and statistical modeling. I was determined to build a foundation that’s both technical and thoughtful.
 
 ---
 
 ### 📈 What I Do
 
-I love working with data that means something. Whether it’s building **machine learning models**, crafting **cloud-based pipelines**, or designing **interactive dashboards**, I’m most excited when data becomes **actionable** — when it’s used to tell stories, drive decisions, or make systems more just.
+I love working with data that means something. Whether it’s building machine learning models, crafting cloud-based pipelines, or designing interactive dashboards, I’m most excited when data becomes actionable — when it’s used to tell stories, drive decisions, or make systems more just.
 
 Some of my core strengths:
 - Applied statistics & regression modeling  
@@ -39,18 +39,19 @@ To me, data is more than just numbers — it’s a lens. It’s a way to underst
 
 ### 🎉 Fun Facts About Me
 
-- I have two **French Bulldogs** and they’re the love of my life 🐾  
-- I used to be a **neuroscience major** (so I know a thing or two about the brain) 🧠  
+- I have two French Bulldogs and they’re the love of my life 🐾  
+- I used to be a neuroscience major (so I know a thing or two about the brain) 🧠  
 - My first job was waitressing at my family’s restaurant 🍽️
 - I finish tv series at an alarmingly and concerning fast pace 📺
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-  <img src="/assets/images/gallery/pic1.jpg" alt="My dog 1" style="width: 30%; border-radius: 10px;">
-  <img src="/assets/images/gallery/pic2.jpg" alt="Me smiling" style="width: 30%; border-radius: 10px;">
-  <img src="/assets/images/gallery/pic3.jpg" alt="My dog 2" style="width: 30%; border-radius: 10px;">
-  <img src="/assets/images/gallery/pic4.jpg" alt="Me hiking" style="width: 30%; border-radius: 10px;">
-  <img src="/assets/images/gallery/pic5.jpg" alt="Graduation!" style="width: 30%; border-radius: 10px;">
-  <img src="/assets/images/gallery/pic6.jpg" alt="Plants I care for" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/pic1.jpg" alt="" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/pic2.jpg" alt="" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/pic3.jpg" alt="" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/pic4.jpg" alt="" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/pic5.jpg" alt="" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/pic6.jpg" alt="" style="width: 30%; border-radius: 10px;">
 
 </div>
+******
