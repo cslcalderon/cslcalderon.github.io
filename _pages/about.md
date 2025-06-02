@@ -46,11 +46,11 @@ To me, data is more than just numbers — it’s a lens. It’s a way to underst
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-  <img src="/assets/images/gallery/dog1.jpg" alt="My dog 1" style="width: 30%; border-radius: 10px;">
-  <img src="/assets/images/gallery/me1.jpg" alt="Me smiling" style="width: 30%; border-radius: 10px;">
-  <img src="/assets/images/gallery/dog2.jpg" alt="My dog 2" style="width: 30%; border-radius: 10px;">
-  <img src="/assets/images/gallery/me2.jpg" alt="Me hiking" style="width: 30%; border-radius: 10px;">
-  <img src="/assets/images/gallery/grad.jpg" alt="Graduation!" style="width: 30%; border-radius: 10px;">
-  <img src="/assets/images/gallery/plant.jpg" alt="Plants I care for" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/pic1.jpg" alt="My dog 1" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/pic2.jpg" alt="Me smiling" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/pic3.jpg" alt="My dog 2" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/pic4.jpg" alt="Me hiking" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/pic5.jpg" alt="Graduation!" style="width: 30%; border-radius: 10px;">
+  <img src="/assets/images/gallery/pic6.jpg" alt="Plants I care for" style="width: 30%; border-radius: 10px;">
 
 </div>
