@@ -3,7 +3,6 @@ title: "Reflections on Graduation: Growth Through Data and Discovery"
 date: 2025-06-01
 categories:
   - reflections
-  - projects
 tags:
   - data science
   - learning
