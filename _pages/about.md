@@ -41,7 +41,7 @@ To me, data is more than just numbers — it’s a lens. It’s a way to underst
 
 - I have two French Bulldogs and they’re the love of my life 🐾  
 - I used to be a neuroscience major (so I know a thing or two about the brain) 🧠  
-- My first job was waitressing at my family’s restaurant 🍽️
+- I do nails for fun! 💅
 - I finish tv series at an alarmingly and concerning fast pace 📺
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
