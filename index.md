@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ""
+title: " "
 author_profile: true
 header:
   overlay_color: "#000"
