@@ -23,7 +23,7 @@ My work spanned data storytelling, policy research, and pipeline building. Some 
 
 - **SNAP Recipient Profile (2025):** A deep dive into who receives food assistance in Texas, using American Community Survey data to dismantle myths and showcase the realities of low-income families.
 - **Texas Poverty Data Brief (2025):** Led analysis and visualization for a statewide report on poverty trends, with a focus on equity gaps by region, language, and education.
-- **[Bilingual Texans Report]([url](https://everytexan.org/2024/09/23/data-brief-bilingual-texans/)) (2024):** Modeled income and health disparities among bilingual households, using logistic regression and caret modeling in R to identify drivers of inequity.
+- **[Bilingual Texans Report](https://everytexan.org/2024/09/23/data-brief-bilingual-texans/) (2024):** Modeled income and health disparities among bilingual households, using logistic regression and caret modeling in R to identify drivers of inequity.
 - **KIDS COUNT 2024 Dashboard (2024):** Helped build a statewide child well-being tool by cleaning and joining data from dozens of sources, including census data, state agency data, and health surveys.
 
 Each project helped me sharpen my technical skills **and** think critically about how data reflects—and can transform—real lives.
