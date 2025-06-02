@@ -5,7 +5,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/header.jpg
+  overlay_image: /assets/images/header-image.jpg
   show_overlay_excerpt: false
 ---
 
