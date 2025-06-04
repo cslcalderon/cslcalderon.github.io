@@ -20,7 +20,7 @@ Despite the name, logistic regression is used for classification, not regression
 
 It estimates the probability that a given input belongs to a class using a linear combination of input features passed through a sigmoid function:
 
-<div style="text-align: center;">
+<div>
   <img src="/assets/images/blog_posts/log_eq.jpg" alt="Sigmoid curve showing probability vs. linear predictor" style="max-width: 500px; width: 100%; height: auto;">
   <p><em>Sigmoid function used in logistic regression.</em></p>
 </div>
@@ -40,7 +40,7 @@ Logistic regression works best when:
 A decision tree splits the data into branches based on feature values, like a flowchart:
 
 
-<div style="text-align: center;">
+<div>
   <img src="/assets/images/blog_posts/dec_tree.jpg" alt="Simple binary decision tree example" style="max-width: 600px; width: 100%; height: auto;">
   <p><em>Example of a basic decision tree splitting on features.</em></p>
 </div>
