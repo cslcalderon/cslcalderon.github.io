@@ -9,7 +9,7 @@ tags:
 - logistic-regression
 - decision-tree
 - classification
-- modelselection
+- model-selection
 ---
 
 When you're starting out in data science, choosing the “right” model can feel overwhelming. Logistic regression and decision trees are two of the most common supervised learning algorithms used for classification. Let’s break them down simply, compare when to use each, and look at a real-life example to tie it all together.
