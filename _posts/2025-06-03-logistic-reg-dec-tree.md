@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What’s the Difference Between Logistic Regression and Decision Trees?"
 date: 2025-06-03
 categories: 
