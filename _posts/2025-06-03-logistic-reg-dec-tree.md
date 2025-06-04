@@ -76,7 +76,7 @@ model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
 print("Binary Logistic Regression Results:\n", classification_report(y_test, y_pred))
 
-```python
+```
 ---
 
 ### 📌 Notes:
