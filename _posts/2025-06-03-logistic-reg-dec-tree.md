@@ -24,6 +24,12 @@ It estimates the probability that a given input belongs to a class using a linea
   <p><em>Sigmoid function used in logistic regression.</em></p>
 </div>
 
+
+<div style="text-align: center;">
+  <img src="/assets/images/blog_posts/log_reg_comp.jpg" alt="Sigmoid curve showing probability vs. linear predictor" style="max-width: 500px; width: 100%; height: auto;">
+  <p><em>Sigmoid function used in logistic regression.</em></p>
+</div>
+
 Logistic regression works best when:
 - The relationship between features and the log-odds of the target is linear
 - Your data is relatively clean and not too complex
