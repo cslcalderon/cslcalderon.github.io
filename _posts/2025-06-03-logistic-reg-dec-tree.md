@@ -62,17 +62,17 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 
-# Load binary classification dataset (malignant vs. benign)
+#load binary classification dataset (malignant vs. benign)
 X, y = load_breast_cancer(return_X_y=True)
 
-# Split data into train/test
+# split data into train/test so you can train the model and then see if it worked after
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
-# Create and fit logistic regression model
+#this is where you create and fit logistic regression model
 model = LogisticRegression(max_iter=1000)
 model.fit(X_train, y_train)
 
-# Predict and evaluate
+#now time to predict and evaluate
 y_pred = model.predict(X_test)
 print("Binary Logistic Regression Results:\n", classification_report(y_test, y_pred))
 
@@ -103,6 +103,28 @@ It handles both classification and regression tasks and works well with non-line
 
 🟢 Pros: Handles complex data, interpretable rules, no need to scale data  
 🔴 Cons: Prone to overfitting, not great with sparse data unless pruned or boosted
+
+Python code example
+```python
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.datasets import load_iris
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import classification_report
+
+#loading dataset
+X, y = load_iris(return_X_y=True)
+
+#splitting into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+#fit decision tree model
+tree = DecisionTreeClassifier(max_depth=3, random_state=42)
+tree.fit(X_train, y_train)
+
+#and finally predict and evaluate
+y_pred = tree.predict(X_test)
+print("Decision Tree Results:\n", classification_report(y_test, y_pred))
+```
 
 ---
 
@@ -150,4 +172,3 @@ Often, the best practice is to start simple and iterate.
 
 ---
 
-Got questions or want to see a walkthrough in R or Python? Drop me a line or check out the related notebooks on [GitHub](https://github.com/cslcalderon). 💻
