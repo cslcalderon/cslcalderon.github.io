@@ -11,7 +11,20 @@ tags:
 - model-selection
 ---
 
-When you're starting out in data science, choosing the “right” model can feel overwhelming. Logistic regression and decision trees are two of the most common supervised learning algorithms used for classification. Let’s break them down simply, compare when to use each, and look at a real-life example to tie it all together.
+When you're starting out in data science, choosing the “right” model can feel overwhelming. It is known that machine learning depends heavily on classification methods. Specifically, logistic regression and decision trees are two of the most common supervised learning algorithms used for classification. 
+
+## What Are Different Types of Classification?
+
+- Binary Classification: two possible outcomes
+- Multiclass Classification: one correct among many
+- Multilabel Classification: independent labels (sorting into differerent possible categories)
+- Imbalanced Classification: skewed class distribution
+- Ordinal Classification: ordered labels
+- Hierachical Classification: parent-child label structure
+
+
+In this article, these two methods, logistic regression and decision tree use primarily binary and multiclass. Both of these are unsupervised models for classificaition and regression tasks but logistic is better for linear, predictable, good for bianry outcomes and probabilities. Decision trees are non-linear and handle interactions, and support rule-based multiclass splits. 
+
 
 ## 🤔 What Is Logistic Regression?
 
@@ -30,13 +43,43 @@ It estimates the probability that a given input belongs to a class using a linea
   <p><em>Sigmoid function used in logistic regression.</em></p>
 </div>
 
-Logistic regression works best when:
+For examples, logistic regression in this case can map a point to 0 or 1, but it can also be 0.75 or something in between. If something is above 0.50 it's considered a "yes" or true and if it's below 0.50, it gets classified as a "no" or false. You set these conditions when making the model of what is "yes" or "no". 
+
+**Logistic regression works best when:**
 - The relationship between features and the log-odds of the target is linear
 - Your data is relatively clean and not too complex
 - Interpretability matters (you want to understand feature impact)
 
 🟢 Pros: Fast, interpretable, low variance  
 🔴 Cons: Assumes linearity, struggles with complex patterns
+
+Python Code Example: 
+**🧪 Logistic Regression Example (Binary Classification)**
+
+```python
+from sklearn.datasets import load_breast_cancer
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import classification_report
+
+# Load binary classification dataset (malignant vs. benign)
+X, y = load_breast_cancer(return_X_y=True)
+
+# Split data into train/test
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+# Create and fit logistic regression model
+model = LogisticRegression(max_iter=1000)
+model.fit(X_train, y_train)
+
+# Predict and evaluate
+y_pred = model.predict(X_test)
+print("Binary Logistic Regression Results:\n", classification_report(y_test, y_pred))
+
+---
+
+### 📌 Notes:
+- This uses the `load_breast_cancer()` dataset from `sklearn.datasets`, which is a binary classification task: predicting whether a tumor is malignant or benign.
 
 ---
 
@@ -52,7 +95,7 @@ A decision tree splits the data into branches based on feature values, like a fl
 
 It handles both classification and regression tasks and works well with non-linear relationships. It keeps splitting the data to minimize “impurity” using metrics like Gini or entropy (for classification).
 
-Decision trees work best when:
+**Decision trees work best when:**
 - Your data has non-linear relationships or lots of interactions
 - You want rules-based interpretations
 - You’re okay with lower stability (small changes in data can change the tree)
