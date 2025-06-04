@@ -104,7 +104,8 @@ It handles both classification and regression tasks and works well with non-line
 🟢 Pros: Handles complex data, interpretable rules, no need to scale data  
 🔴 Cons: Prone to overfitting, not great with sparse data unless pruned or boosted
 
-Python code example
+Python code example:
+**🌳 Decision Tree Classification Example (Multiclass)**
 ```python
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.datasets import load_iris
