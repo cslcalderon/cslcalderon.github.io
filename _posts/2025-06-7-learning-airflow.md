@@ -53,7 +53,7 @@ To apply what I was learning, I created a DAG that:
 4. Saves the data as a CSV file in a temporary directory.
 5. Loads the data into the database.
 
-It’s not flashy, but it’s my **first real data pipeline**, and I’m proud of it.
+It’s not flashy, but it’s my **first real data pipeline**.
 
 ---
 
@@ -128,7 +128,9 @@ user_processing()
 
 I kept my code in the ./dags folder and launched the services using:
 
+```python
 docker compose up
+```
 
 From there, I could view the Airflow UI at localhost:8080 and watch my DAGs run!
 
