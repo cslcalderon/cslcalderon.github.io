@@ -1,9 +1,15 @@
-# My First Data Engineering Pipeline with Apache Airflow
-
-**Date:** June 2025  
-**Author:** Sofia Calderon
-
 ---
+title: "My First Data Engineering Pipeline with Apache Airflow"
+date: 2025-06-17
+categories: 
+- data-engineering
+- airflow
+tags: 
+- airflow
+- automation
+- database management
+---
+
 
 I’ve spent most of my academic and professional journey working on data science and analytics. From exploring socio-economic datasets in R to deploying dashboards in ArcGIS and Looker Studio, I’ve always loved the process of turning raw data into actionable insights.
 
