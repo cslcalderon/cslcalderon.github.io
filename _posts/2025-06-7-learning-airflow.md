@@ -117,28 +117,7 @@ def user_processing():
     process_user(extract_user(create_table >> is_api_availible())) >> store_user()
 
 user_processing()
-version: "3"
-services:
-  postgres:
-    image: postgres:13
-    environment:
-      POSTGRES_USER: airflow
-      POSTGRES_PASSWORD: airflow
-      POSTGRES_DB: airflow
-    ports:
-      - "5432:5432"
 
-  webserver:
-    image: apache/airflow:2.9.0
-    environment:
-      AIRFLOW__CORE__EXECUTOR: LocalExecutor
-      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
-    volumes:
-      - ./dags:/opt/airflow/dags
-    ports:
-      - "8080:8080"
-    depends_on:
-      - postgres
 ```
 
 I kept my code in the ./dags folder and launched the services using:
