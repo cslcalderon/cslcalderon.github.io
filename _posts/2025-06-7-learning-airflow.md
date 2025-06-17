@@ -134,7 +134,7 @@ docker compose up
 
 From there, I could view the Airflow UI at localhost:8080 and watch my DAGs run!
 
-##🔄 What I Learned
+## 🔄 What I Learned
 - Here are a few takeaways from building my first Airflow pipeline:
 - Writing DAGs is just writing Python — which made things easier coming from a CS background.
 - Sensors are powerful — you can wait for conditions like an API being available.
